@@ -34,4 +34,4 @@ løs = np.array([41,310,8275,620689,3103448])
 
 bytløs = np.array([14,103,2758,206896,1034483])
 
-print(løs-((bytløs)*3)) # Viser os hvor tæt disse tal kommer på at opfylde kriteriet. 
+print(løs-((bytløs)*3)) # Viser os hvor tæt disse tal kommer på at opfylde kriteriet
